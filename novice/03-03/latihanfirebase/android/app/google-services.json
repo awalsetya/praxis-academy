@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "156532931273",
+    "firebase_url": "https://fir-db-af740.firebaseio.com",
+    "project_id": "fir-db-af740",
+    "storage_bucket": "fir-db-af740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156532931273:android:44deb6c100385213",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156532931273-vppu78m8tjd7fph5url02a6u1ebdsu1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFqjgR3nO9fH66Fggqc9OiOFaepjwAuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156532931273-vppu78m8tjd7fph5url02a6u1ebdsu1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156532931273:android:ec5f474c9b781b46",
+        "android_client_info": {
+          "package_name": "mypraxis.awal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156532931273-vppu78m8tjd7fph5url02a6u1ebdsu1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFqjgR3nO9fH66Fggqc9OiOFaepjwAuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156532931273-vppu78m8tjd7fph5url02a6u1ebdsu1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
